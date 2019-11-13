@@ -1,6 +1,5 @@
-language: node_js
-# nodejs版本
-node_js: 
+language: java
+java: 
     - '6'
 
 # Travis-CI Caching
